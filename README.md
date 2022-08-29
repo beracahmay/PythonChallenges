@@ -1,5 +1,5 @@
 # PythonChallenges
-These are my solutions to various python problems I find online.
+This contains my solutions to various python problems I find online.
 
 Links:
 
