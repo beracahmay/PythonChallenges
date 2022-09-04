@@ -1,6 +1,8 @@
 # PythonChallenges
-This contains my solutions to various python problems I find online.
+This repository contains my solutions to various python problems I find online.
 
 Links:
 
 https://www.practicepython.org/
+
+https://www.codewars.com/
